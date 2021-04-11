@@ -8,12 +8,6 @@ header {
     text-align: left;
 }
 
-.Valves{
-    background-color: green;
-    text-align: center;
-    padding: 6vw;
-    font-size: 8vw;
-}
 
 .Automation{
     background-color: green;
@@ -43,3 +37,11 @@ header {
     padding: 6vw;
     font-size: 8vw;
 }
+.btn {
+    background-color: green;
+    color: black;
+    padding: 6vw;
+    text-align: center;
+    font-size: 8vw;
+    width: 100%;
+  }
