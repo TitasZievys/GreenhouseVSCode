@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(193, 216, 213);
+}
+header {
+    background-color: darkgreen;
+    color: black;
+    padding: 6vw;
+    text-align: left;
+}
+
+.Valves{
+    background-color: green;
+    text-align: center;
+    padding: 6vw;
+    font-size: 8vw;
+}
+
+.Automation{
+    background-color: green;
+    text-align: center;
+    padding: 6vw;
+    font-size: 8vw;
+    
+}
+
+.Notifications{
+    background-color: green;
+    text-align: center;
+    padding: 6vw;
+    font-size: 8vw;
+}
+
+.SystemActivation{
+    background-color: green;
+    text-align: center;
+    padding: 6vw;
+    font-size: 8vw;
+}
+
+.Data{
+    background-color: green;
+    text-align: center;
+    padding: 6vw;
+    font-size: 8vw;
+}
